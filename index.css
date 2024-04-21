@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url('./fon2.jpg');
+
+}
+.main {
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 25px 25px 5px -5px rgba(0,0,0,.2);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 30px;
+    margin-top: 80px;
+    max-width: 700px; /* Example value */
+    
+    width: 100%;
+    height: 700px;
+    /* background: #353738; */
+    background-size: cover; /* Изменено на cover */
+    /* background-repeat: no-repeat; Изменено на no-repeat */
+    
+}
+.head{
+    /* padding-right: ; */
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+    background-image: url(./01.jpeg);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+.data{
+
+}
