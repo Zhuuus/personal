@@ -34,11 +34,13 @@ body{
     overflow: auto;
 }
 .img{
-    background-image: url(./4.jpeg);
+    background-image: url(./4.jpg);
     background-size: cover;
-    width: 280px;
-    height: auto;
+    width: 270px;
+    height: 270px;
+    border-radius: 5px;
 }
 .data{
+    font-size: 15px;
 
 }
