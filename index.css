@@ -36,8 +36,8 @@ body{
 .img{
     background-image: url(./4.jpeg);
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: auto;
 }
 .data{
 
